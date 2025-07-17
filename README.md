@@ -20,6 +20,5 @@
 - Инъекция DLL может быть заблокирована антивирусом или античитом.
 
 ## Поддержи меня
-# Dota2
-Используешь Melonity? Переходи на [Umbrella](https://uc.zone/?referrer=Inko) я дам тебе 10 дней бесплатной подписки и 33% скидки на покупку!
-# [DonationAlerts](https://www.donationalerts.com/r/maskitodmitriy)
+- Используешь Melonity? Переходи на [Umbrella](https://uc.zone/?referrer=Inko) я дам тебе 10 дней бесплатной подписки и 33% скидки на покупку!
+- [DonationAlerts](https://www.donationalerts.com/r/maskitodmitriy)
