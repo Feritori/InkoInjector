@@ -16,5 +16,5 @@
 5. В логе и всплывающем окне появится результат операции.
 
 ## Важно
-- Для корректной работы требуется .NET Framework 4.7.2 или новее.
+- Для корректной работы требуется [.NET Framework 4.7.2](https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-7-2-offline-installer-for-windows-05a72734-2127-a15d-50cf-daf56d5faec2) или новее.
 - Инъекция DLL может быть заблокирована антивирусом или античитом.
