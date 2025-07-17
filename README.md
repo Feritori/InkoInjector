@@ -18,3 +18,6 @@
 ## Важно
 - Для корректной работы требуется [.NET Framework 4.7.2](https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-7-2-offline-installer-for-windows-05a72734-2127-a15d-50cf-daf56d5faec2) или новее.
 - Инъекция DLL может быть заблокирована антивирусом или античитом.
+
+## Dota2
+Используешь Melonity? Переходи на [Umbrella](https://uc.zone/?referrer=Inko) я дам тебе 10 дней бесплатной подписки и 33% скидки на покупку!
